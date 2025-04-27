@@ -1,7 +1,8 @@
 {
-  "name": "motivational-api",
+  "name": "media-api",
   "version": "1.0.0",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "*",
+    "ruhend-scraper": "*"
   }
 }
